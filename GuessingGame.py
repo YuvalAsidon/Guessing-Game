@@ -1,7 +1,6 @@
 from random import randint
 
 random_number=randint(1,10)
-keep_playing=True
 user_guess=int(input("Guess a number between 1 and 10: "))
 
 while True:
